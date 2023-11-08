@@ -1,0 +1,2 @@
+# zgo
+all in Go
